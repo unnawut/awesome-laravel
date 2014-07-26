@@ -30,20 +30,17 @@ A curated list of awesome Laravel packages, tools, articles, tutorials and other
   - [artdarek/oauth-4-laravel](https://github.com/artdarek/oauth-4-laravel): An OAuth client wrapper for Laravel. Uses [Lusitanian/PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib).
   - [zizaco/confide](https://github.com/Zizaco/confide): An authentication solution for Laravel 4. Includes account confirmation, login throttling, etc.
   - [zizaco/entrust](https://github.com/Zizaco/entrust): Role-based Permissions for Laravel 4.
-- API
-  - [dingo/api](https://github.com/dingo/api): A RESTful API package for the Laravel framework. Supports API versioning, data transformers, error handling, rate limiting, etc.
-- Site Admin
-  - [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator): An administrative interface builder for Laravel.
-- Forms
-  - [anahkiasen/former](https://github.com/anahkiasen/former): A powerful form builder for Laravel and other frameworks.
 - Developer's tools
   - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar): Laravel 4 Debugbar (Integrates PHP Debug Bar).
   - [way/generators](https://github.com/JeffreyWay/Laravel-4-Generators): Easily generate model, view, controller, migrations, etc. via `php artisan` commands.
   - [aws/aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel.git): A simple Laravel 4 service provider for including the AWS SDK for PHP.
 - Testing
-  - ~~[way/laravel-test-helpers](https://github.com/JeffreyWay/Laravel-Test-Helpers): A set of helpers for easier testing in Laravel (no longer maintained).~~
+  - ~~[way/laravel-test-helpers](https://github.com/JeffreyWay/Laravel-Test-Helpers): A set of helpers for easier testing in Laravel~~ (no longer maintained).
 - Other notable packages
+  - [dingo/api](https://github.com/dingo/api): A RESTful API package for the Laravel framework. Supports API versioning, data transformers, error handling, rate limiting, etc.
   - [intervention/image](https://github.com/Intervention/image): Image handling and manipulation library. Supports Laravel 4 out of the box.
+  - [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator): An administrative interface builder for Laravel.
+  - [anahkiasen/former](https://github.com/anahkiasen/former): A powerful form builder for Laravel and other frameworks.
 
 ## Community
 - [Laravel.io](http://laravel.io): The official Laravel Framework forum.
