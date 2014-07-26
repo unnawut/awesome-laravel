@@ -1,4 +1,70 @@
-awesome-laravel
-===============
+# Awesome Laravel
+A curated list of awesome Laravel packages, tools, articles, tutorials and other related resources.
 
-A collection of awesome Laravel packages, tools, articles, tutorials and related resources. 
+*Looking for other awesome lists for PHP, Frontend Development, etc? Check out [Awesome - A curated list of awesome lists](https://github.com/sindresorhus/awesome).*
+
+## Official Resources
+- [laravel/laravel](https://github.com/laravel/laravel): The default project structure to start developing with Laravel framework. The project itself does not contain the framework's code.
+- [laravel/framework](https://github.com/laravel/framework): The project that contains Laravel frameworks's code. Use this project for forking, submit pull requests, etc.
+- [Laravel.io](http://laravel.io): The official Laravel Framework forum.
+
+## Articles & Tutorials
+- Articles/tutorials on specific subject
+    - [Exploring Laravel’s IoC container](http://culttt.com/2014/03/24/exploring-laravels-ioc-container/) by Philip Brown.
+    - [Testing Laravel Controllers](http://code.tutsplus.com/tutorials/testing-laravel-controllers--net-31456) by Jeffrey Way.
+- Series of articles/tutorials
+    - [Cribb @ culttt.com](http://culttt.com/tag/cribbb/)
+    - [Laravel 4 Tutorials on Medium.com](https://medium.com/laravel-4)
+
+- Frequently asked questions
+    - [Laravel requires the Mcrypt PHP extension](https://stackoverflow.com/questions/16830405/laravel-requires-the-mcrypt-php-extension).
+    - [php artisan dump-autoload vs. composer dump-autoload](https://stackoverflow.com/questions/20274082/what-are-differences-between-php-artisan-dump-autoload-and-composer-dump-auto)
+    - Laravel on shared hosting
+      - [Install Laravel 4 without Composer](https://stackoverflow.com/questions/15940140/can-i-install-laravel-4-without-using-composer).
+      - [Install to a web host without publicly exposing /app/ folder?](https://stackoverflow.com/questions/16683046/how-to-install-laravel-4-to-a-web-host-subfolder-without-publicly-exposing-app)
+
+## Popular/Notable Packages
+
+- Authentication & Authorization
+    - [Laravel's built-in authentication](http://laravel.com/docs/security).
+    - [lucadegasperi/oauth2-server-laravel](https://github.com/lucadegasperi/oauth2-server-laravel): OAuth 2.0 server package for Laravel. Uses [thephpleague/oauth2-server](https://github.com/thephpleague/oauth2-server).
+    - [artdarek/oauth-4-laravel](https://github.com/artdarek/oauth-4-laravel): An OAuth client wrapper for Laravel. Uses [Lusitanian/PHPoAuthLib](https://github.com/Lusitanian/PHPoAuthLib).
+    - [zizaco/confide](https://github.com/Zizaco/confide): An authentication solution for Laravel 4. Includes account confirmation, login throttling, etc.
+    - [zizaco/entrust](https://github.com/Zizaco/entrust): Role-based Permissions for Laravel 4.
+
+- API
+    - [dingo/api](https://github.com/dingo/api): A RESTful API package for the Laravel framework. Supports API versioning, data transformers, error handling, rate limiting, etc.
+
+- Site Admin
+    - [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator): An administrative interface builder for Laravel.
+
+- Forms
+    - [anahkiasen/former](https://github.com/anahkiasen/former): A powerful form builder for Laravel and other frameworks.
+
+- Developer's tools
+    - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar): Laravel 4 Debugbar (Integrates PHP Debug Bar).
+    - [way/generators](https://github.com/JeffreyWay/Laravel-4-Generators): Easily generate model, view, controller, migrations, etc. via `php artisan` commands.
+    - [aws/aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel.git): A simple Laravel 4 service provider for including the AWS SDK for PHP.
+
+- Testing
+    - ~~[way/laravel-test-helpers](https://github.com/JeffreyWay/Laravel-Test-Helpers): A set of helpers for easier testing in Laravel (no longer maintained).~~
+
+- Other notable packages
+    - [intervention/image](https://github.com/Intervention/image): Image handling and manipulation library. Supports Laravel 4 out of the box.
+
+## Community
+- [Laravel.io](http://laravel.io): The official Laravel Framework forum.
+- [Laracasts Forum](https://www.laracasts.com/forum): A community of Laravel developers at Laracasts.com. Sign up does not require paid subscription at Laracasts.com.
+
+## Books
+- [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell.
+- [Code Bright](https://leanpub.com/codebright): by Dayle Rees.
+- [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way.
+
+## Other Awesome Laravel Resources
+- [Laracasts](https://www.laracasts.com): Paid video tutorials site not limited to, but generally based on Laravel.
+- [Packalyst](http://packalyst.com/): A directory of Packages for your Laravel projects.
+- [Laravel Snippets](http://laravelsnippets.com/): Code snippets in Laravel.
+- [Built with laravel](http://builtwithlaravel.com/): A collection of sites build with Laravel.
+- [Larajobs](https://larajobs.com): Will code Laravel for food.
+- [Pongo CMS](http://pongocms.com/): A content management system (CMS) built with Laravel.
