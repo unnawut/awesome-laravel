@@ -12,6 +12,8 @@ A curated list of awesome Laravel packages, tools, articles, tutorials and other
 - Articles/tutorials on specific subject
   - [Exploring Laravel’s IoC container](http://culttt.com/2014/03/24/exploring-laravels-ioc-container/) by Philip Brown.
   - [Testing Laravel Controllers](http://code.tutsplus.com/tutorials/testing-laravel-controllers--net-31456) by Jeffrey Way.
+  - [Best places to put custom helpers](https://stackoverflow.com/questions/17088917/what-are-the-best-practices-and-best-places-for-laravel-4-helpers-or-basic-funct) on StackOverflow.
+  - [Laravel + Grunt + Bower + Bootstrap](http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/) by Elena Kolevska.
 - Series of articles/tutorials
   - [Cribb @ culttt.com](http://culttt.com/tag/cribbb/)
   - [Laravel 4 Tutorials on Medium.com](https://medium.com/laravel-4)
