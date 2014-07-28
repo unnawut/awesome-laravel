@@ -14,13 +14,16 @@ A curated list of awesome Laravel packages, tools, articles, tutorials and other
   - [Testing Laravel Controllers](http://code.tutsplus.com/tutorials/testing-laravel-controllers--net-31456) by Jeffrey Way.
   - [Best places to put custom helpers](https://stackoverflow.com/questions/17088917/what-are-the-best-practices-and-best-places-for-laravel-4-helpers-or-basic-funct) on StackOverflow.
   - [Laravel + Grunt + Bower + Bootstrap](http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/) by Elena Kolevska.
+  - [Laravel + HHVM + Nginx](http://fideloper.com/hhvm-nginx-laravel) by Fideloper.
 - Series of articles/tutorials
+  - [Code Bright](http://daylerees.com/codebright) by Dayle Rees.
   - [Cribb @ culttt.com](http://culttt.com/tag/cribbb/)
   - [Laravel 4 Tutorials on Medium.com](https://medium.com/laravel-4)
 - Frequently asked questions
   - [Laravel requires the Mcrypt PHP extension](https://stackoverflow.com/questions/16830405/laravel-requires-the-mcrypt-php-extension).
   - [php artisan dump-autoload vs. composer dump-autoload](https://stackoverflow.com/questions/20274082/what-are-differences-between-php-artisan-dump-autoload-and-composer-dump-auto)
 - Laravel on shared hosting
+  - [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host/) by Dries Vints.
   - [Install Laravel 4 without Composer](https://stackoverflow.com/questions/15940140/can-i-install-laravel-4-without-using-composer).
   - [Install to a web host without publicly exposing /app/ folder?](https://stackoverflow.com/questions/16683046/how-to-install-laravel-4-to-a-web-host-subfolder-without-publicly-exposing-app)
 
@@ -52,6 +55,7 @@ A curated list of awesome Laravel packages, tools, articles, tutorials and other
 
 ## Tools
 - [Sublime Text's Laravel Blade Highlighter](https://sublime.wbond.net/packages/Laravel%20Blade%20Highlighter): Laravel Blade syntax highlighter support for Sublime Text..
+- [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/).
 
 ## Community
 - [Laravel.io](http://laravel.io): The official Laravel Framework forum.
