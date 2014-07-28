@@ -17,6 +17,9 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
   - [Best places to put custom helpers](https://stackoverflow.com/questions/17088917/what-are-the-best-practices-and-best-places-for-laravel-4-helpers-or-basic-funct) on StackOverflow.
   - [Laravel + Grunt + Bower + Bootstrap](http://blog.elenakolevska.com/using-grunt-with-laravel-and-bootstrap/) by Elena Kolevska.
   - [Laravel + HHVM + Nginx](http://fideloper.com/hhvm-nginx-laravel) by Fideloper.
+  - Autoloading
+    - [Laravel PSR-0 auto-loading](http://stackoverflow.com/questions/21320775/laravel-psr-0-auto-loading)
+    - [Re-organising Laravel applications with PSR-4](http://laravelish.wordpress.com/2014/03/05/psr-4/)
 - Series of articles/tutorials
   - [Code Bright](http://daylerees.com/codebright) by Dayle Rees.
   - [Cribb @ culttt.com](http://culttt.com/tag/cribbb/)
