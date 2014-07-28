@@ -50,6 +50,9 @@ A curated list of awesome Laravel packages, tools, articles, tutorials and other
   - [anahkiasen/former](https://github.com/anahkiasen/former): A powerful form builder for Laravel and other frameworks.
   - [thujohn/pdf-l4](https://github.com/thujohn/pdf-l4): A simple Dompdf package for Laravel 4.
 
+## Tools
+- [Sublime Text's Laravel Blade Highlighter](https://sublime.wbond.net/packages/Laravel%20Blade%20Highlighter): Laravel Blade syntax highlighter support for Sublime Text..
+
 ## Community
 - [Laravel.io](http://laravel.io): The official Laravel Framework forum.
 - [Laracasts Forum](https://www.laracasts.com/forum): A community of Laravel developers at Laracasts.com. Sign up does not require paid subscription at Laracasts.com.
