@@ -26,6 +26,8 @@ A curated list of awesome Laravel packages, tools, articles, tutorials and other
   - [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host/) by Dries Vints.
   - [Install Laravel 4 without Composer](https://stackoverflow.com/questions/15940140/can-i-install-laravel-4-without-using-composer).
   - [Install to a web host without publicly exposing /app/ folder?](https://stackoverflow.com/questions/16683046/how-to-install-laravel-4-to-a-web-host-subfolder-without-publicly-exposing-app)
+- Integration with Paas/Saas
+  - _(coming soon)_
 
 ## Popular/Notable Packages
 
