@@ -47,6 +47,7 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
   - [barryvdh/laravel-debugbar](https://github.com/barryvdh/laravel-debugbar): Laravel 4 Debugbar (Integrates PHP Debug Bar).
   - [way/generators](https://github.com/JeffreyWay/Laravel-4-Generators): Easily generate model, view, controller, migrations, etc. via `php artisan` commands.
   - [aws/aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel.git): A simple Laravel 4 service provider for including the AWS SDK for PHP.
+  - [anahkiasen/former](https://github.com/anahkiasen/former): A powerful form builder for Laravel and other frameworks.
 - Building an API
   - [dingo/api](https://github.com/dingo/api): A RESTful API package for the Laravel framework. Supports API versioning, data transformers, error handling, rate limiting, etc.
   - [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors): Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application.
@@ -56,9 +57,10 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
 - Testing
   - ~~[way/laravel-test-helpers](https://github.com/JeffreyWay/Laravel-Test-Helpers): A set of helpers for easier testing in Laravel~~ (no longer maintained).
 - Other notable packages
+  - [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier): HTMLPurifier for Laravel 4.
   - [intervention/image](https://github.com/Intervention/image): Image handling and manipulation library. Supports Laravel 4 out of the box.
+  - [greggilbert/recaptcha](https://github.com/greggilbert/recaptcha): reCAPTCHA Validator for Laravel 4.
   - [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator): An administrative interface builder for Laravel.
-  - [anahkiasen/former](https://github.com/anahkiasen/former): A powerful form builder for Laravel and other frameworks.
   - [thujohn/pdf-l4](https://github.com/thujohn/pdf-l4): A simple Dompdf package for Laravel 4.
 
 ## Tools
