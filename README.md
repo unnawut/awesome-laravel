@@ -72,6 +72,7 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
 - [Laracasts Forum](https://www.laracasts.com/forum): A community of Laravel developers at Laracasts.com. Sign up does not require paid subscription at Laracasts.com.
 
 ## Books
+- [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel): a book by the creator of Laravel himself!
 - [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook) by Christopher Pitt and Taylor Otwell.
 - [Code Bright](https://leanpub.com/codebright): by Dayle Rees.
 - [Laravel Testing Decoded](https://leanpub.com/laravel-testing-decoded) by Jeffrey Way.
