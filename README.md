@@ -1,5 +1,5 @@
-# Awesome Laravel
-A curated list of awesome Laravel packages, tools, articles, tutorials and other related resources. Inspired by [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
+# Awesome Laravel Bookmarks
+A curated list of awesome Laravel bookmarks, packages, tools, articles, tutorials and other related resources. Inspired by [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
 Complementing this list, you may also want to check out [Awesome PHP](https://github.com/ziadoz/awesome-php): a curated list of amazingly awesome PHP libraries, resources and shiny things.
 
