@@ -27,6 +27,7 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
   - [Laravel 4 Tutorials on Medium.com](https://medium.com/laravel-4)
 - Frequently asked questions
   - [Laravel requires the Mcrypt PHP extension](https://stackoverflow.com/questions/16830405/laravel-requires-the-mcrypt-php-extension).
+  - [Retrieve recently executed DB queries](https://stackoverflow.com/questions/14536165/get-the-query-executed-in-laravel-3-4).
   - [php artisan dump-autoload vs. composer dump-autoload](https://stackoverflow.com/questions/20274082/what-are-differences-between-php-artisan-dump-autoload-and-composer-dump-auto)
 - Laravel on shared hosting
   - [Laravel 4 on a shared host](http://driesvints.com/blog/laravel-4-on-a-shared-host/) by Dries Vints.
