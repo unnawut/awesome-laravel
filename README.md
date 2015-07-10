@@ -63,6 +63,10 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
   - [greggilbert/recaptcha](https://github.com/greggilbert/recaptcha): reCAPTCHA Validator for Laravel 4.
   - [frozennode/administrator](https://github.com/FrozenNode/Laravel-Administrator): An administrative interface builder for Laravel.
   - [thujohn/pdf-l4](https://github.com/thujohn/pdf-l4): A simple Dompdf package for Laravel 4.
+  - [yajra/laravel-datatables](https://github.com/yajra/laravel-datatables): Server-side handling fof data for [DataTables jQuery Plugin](http://datatables.net/)
+  - [antonioribeiro/firewall](https://github.com/antonioribeiro/firewall): Blacklist/whitelist access to your site by IP address, IP range, or country.
+  - [Maatwebsite/Laravel-Excel](https://github.com/Maatwebsite/Laravel-Excel): Import/export of Excel and CSV files.
+  - [Indatus/dispatcher](https://github.com/Indatus/dispatcher): Artisan command scheduling so you don't need to touch crontab on deployments.
 
 ## Tools
 - [Sublime Text's Laravel Blade Highlighter](https://sublime.wbond.net/packages/Laravel%20Blade%20Highlighter): Laravel Blade syntax highlighter support for Sublime Text..
