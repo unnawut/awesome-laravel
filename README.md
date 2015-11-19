@@ -49,6 +49,7 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
   - [way/generators](https://github.com/JeffreyWay/Laravel-4-Generators): Easily generate model, view, controller, migrations, etc. via `php artisan` commands.
   - [aws/aws-sdk-php-laravel](https://github.com/aws/aws-sdk-php-laravel.git): A simple Laravel 4 service provider for including the AWS SDK for PHP.
   - [anahkiasen/former](https://github.com/anahkiasen/former): A powerful form builder for Laravel and other frameworks.
+  - [jpcercal/environment](https://github.com/jpcercal/environment) - A simple library to increase the power of your environment variables.
 - Building an API
   - [dingo/api](https://github.com/dingo/api): A RESTful API package for the Laravel framework. Supports API versioning, data transformers, error handling, rate limiting, etc.
   - [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors): Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application.
