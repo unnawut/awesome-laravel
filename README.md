@@ -85,7 +85,6 @@ Complementing this list, you may also want to check out [Awesome PHP](https://gi
 ## Other Awesome Laravel Resources
 - [Laracasts](https://www.laracasts.com): Paid video tutorials site not limited to, but generally based on Laravel.
 - [Packalyst](http://packalyst.com/): A directory of Packages for your Laravel projects.
-- [Laravel Snippets](http://laravelsnippets.com/): Code snippets in Laravel.
 - [Built with laravel](http://builtwithlaravel.com/): A collection of sites build with Laravel.
 - [Larajobs](https://larajobs.com): Will code Laravel for food.
 - [Pongo CMS](http://pongocms.com/): A content management system (CMS) built with Laravel.
