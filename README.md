@@ -1,3 +1,8 @@
+ATTENTION: This list is obsolete and discontinued. Please find a much more comprehensive, much more well-maintained *awesome-laravel* list at [chiraggude/awesome-laravel
+](https://github.com/chiraggude/awesome-laravel).
+
+-----
+
 # Awesome Laravel Bookmarks
 A curated list of awesome Laravel bookmarks, packages, tools, articles, tutorials and other related resources. Inspired by [Frontend Dev Bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks).
 
